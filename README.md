@@ -1,5 +1,5 @@
 ### Olá 👋
 
 - 🌱 Estudando Front-End
-- 🤔 Criando projetos para colocar em práticas estudos de Desenvolvimento Web
+- <> Criando projetos para colocar em prática estudos de Desenvolvimento Web
 - 🌏 Jundiaí, São Paulo - Brasil
