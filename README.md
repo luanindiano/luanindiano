@@ -9,7 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanindiano&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="center" margin-bottom: -10px>
   <bold>Estou Aprendendo</bold>
 </div>
 
