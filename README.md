@@ -9,8 +9,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanindiano&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block" align="center" text-align: center><br>
-  Estou Aprendendo
+##Estou Aprendendo
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Luan-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Luan-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
