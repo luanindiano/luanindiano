@@ -10,10 +10,11 @@
 </div>
 <br>
 <div style="display: inline_block" align="center">
-  Estou Aprendendo &nbsp;
+  Estou Aprendendo
 </div>
 <div style="display: inline_block" align="center">
   <img align="center" alt="Luan-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Luan-SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Luan-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
 
