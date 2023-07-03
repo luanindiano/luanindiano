@@ -10,7 +10,7 @@
 </div>
 <br>
 <div style="display: inline_block" align="center">
-  Estou Aprendendo
+  Estou Aprendendo &nbsp;
 </div>
 <div style="display: inline_block" align="center">
   <img align="center" alt="Luan-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -19,7 +19,7 @@
 
 <br>
 <div style="display: inline_block" align="center">
-  &nbsp; Tenho Conhecimento
+   Tenho Conhecimento
 </div>
 <div style="display: inline_block" align="center">
   
