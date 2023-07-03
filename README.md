@@ -9,7 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanindiano&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
-<div style="display: inline_block; margin-bottom: 30px" align="center">
+<div style="display: inline_block" align="center">
   Estou Aprendendo
 </div>
 <div style="display: inline_block" align="center">
@@ -19,7 +19,7 @@
 
 <br>
 <div style="display: inline_block" align="center">
-  <bold>Tenho Conhecimento</bold>
+  &nbsp; Tenho Conhecimento
 </div>
 <div style="display: inline_block" align="center">
   
