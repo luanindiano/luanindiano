@@ -10,7 +10,7 @@
 </div>
 <br>
 <div style="display: inline_block; margin-bottom: 30px" align="center">
-  <bold>Estou Aprendendo</bold>
+  Estou Aprendendo
 </div>
 <div style="display: inline_block" align="center">
   <img align="center" alt="Luan-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
