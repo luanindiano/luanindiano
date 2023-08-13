@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo ao meu perfil!
 
-- 💻 Aprendendo programação com Java e desvendando o universo Back-End
+- 💻 Aprendendo programação com PHP
 - 💼 Atualmente trabalho como Suporte de TI
 - 🌏 De: Jundiaí, São Paulo - BR
 <div >
@@ -13,9 +13,10 @@
   Estou Aprendendo
 </div>
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Luan-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Luan-SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Luan-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Luan-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Luan-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="center" alt="Luan-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
 <br>
