@@ -1,18 +1,19 @@
 ### Olá, Obrigado pela visita!
 💻 Desenvolvendo minhas habilidades em especial no Python
+
 🌏 Jundiaí - BR
 <br>
-<div style="display: inline_block" align="left">
-  <h4>Estou Focado</h4>
+<div style="display: inline_block" align="center">
+  <h4>Linguagem mais próxima atualmente</h4>
 </div>
-<div style="display: inline_block" align="left">
+<div style="display: inline_block" align="center">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 <br>
-<div style="display: inline_block" align="left">
-   <h4>Tenho Conhecimento</h4>
+<div style="display: inline_block" align="center">
+   <h4>Algumas tecnologias conhecidas por mim</h4>
 </div>
-<div style="display: inline_block" align="left">
+<div style="display: inline_block" align="center">
   <img align="center" alt="Luan-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
