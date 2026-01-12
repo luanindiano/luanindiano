@@ -1,4 +1,10 @@
 ### Olá, Obrigado pela visita!
+<div style="display: inline_block" align="center">
+  💻 Desenvolvendo minhas habilidades em especial no Python
+
+  🌏 Jundiaí - BR
+<br>
+</div>
 💻 Desenvolvendo minhas habilidades em especial no Python
 
 🌏 Jundiaí - BR
