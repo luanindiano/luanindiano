@@ -13,7 +13,7 @@
   Estou Focado
 </div>
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Luan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img align="center" alt="Luan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Luan-React-Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Luan-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
