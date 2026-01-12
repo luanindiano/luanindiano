@@ -1,7 +1,7 @@
-### Olá! Seja bem-vindo ao meu perfil!
+### Olá!
 
-- 💻 Aprendendo programação mobile com Kotlin e React Native
-- 💼 Atualmente trabalho como Suporte de TI
+- 💻 Desenvolvendo com Python
+- 💼 Trabalhando como suporte de TI
 - 🌏 De: Interior de SP - BR
 <div >
   <a href="https://github.com/luanindiano">
@@ -10,10 +10,10 @@
 </div>
 <br>
 <div style="display: inline_block" align="center">
-  Estou Aprendendo
+  Estou Focado
 </div>
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Luan-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Luan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img align="center" alt="Luan-React-Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Luan-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
