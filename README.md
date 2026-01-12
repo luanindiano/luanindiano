@@ -1,14 +1,12 @@
 ### Olá, Obrigado pela visita!
 <div style="display: inline_block" align="center">
-  💻 Desenvolvendo minhas habilidades em especial no Python
-
+  💻 Atualmente, estou desenvolvendo minhas habilidades em Python, em especial, além de focar em todo o contexto do desenvolvimento de sistemas, como versionamento de código com Git, boas práticas como Clean Code, uso e criação de APIs REST, tratamento de erros, entre outros, para me tornar um profissional completo, capaz de resolver problemas e lidar com novos desafios e desenvolvimentos, tanto no trabalho quanto em projetos pessoais que almejo.
+Este é o meu objetivo.
+  
   🌏 Jundiaí - BR
 <br>
 </div>
-💻 Desenvolvendo minhas habilidades em especial no Python
 
-🌏 Jundiaí - BR
-<br>
 <div style="display: inline_block" align="center">
   <h4>Linguagem mais próxima atualmente</h4>
 </div>
