@@ -1,5 +1,5 @@
 ### Olá, Obrigado pela visita!
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="left">
   💻 Atualmente, estou desenvolvendo minhas habilidades em Python, em especial, além de focar em todo o contexto do desenvolvimento de sistemas, como versionamento de código com Git, boas práticas como Clean Code, uso e criação de APIs REST, tratamento de erros, entre outros, para me tornar um profissional completo, capaz de resolver problemas e lidar com novos desafios e desenvolvimentos, tanto no trabalho quanto em projetos pessoais que almejo.
 Este é o meu objetivo.
   
